@@ -28,3 +28,5 @@ if __name__ =="__main__":
     PPO_task = Task_PPO(args, env)
     # PPO_task.train()
     PPO_task.evaluate_model()
+
+    # TODO: generate fixed random seed list for scenarios
