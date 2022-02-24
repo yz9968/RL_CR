@@ -30,4 +30,3 @@ if __name__ =="__main__":
     PPO_task.evaluate_model()
 
     # TODO: generate fixed random seed list for scenarios
-    # TODO: generate fixed random seed list for scenarios
