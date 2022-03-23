@@ -40,6 +40,26 @@ def plot_multi_cn(data_lists, titles=["环境-算法-数据"], xlabels=["episode
         plt.savefig(save_path+save_name)
     plt.show()
 
+def plot_multi_cn_off(data_lists, titles=["环境-算法-数据"], xlabels=["episodes"], labels=["rewards"], save=True, save_path="./", save_name="rewards_curve"):
+    from math import ceil, sqrt
+    sns.set()
+    plt.clf()
+    subfig_num = len(data_lists)
+    row_num = int(sqrt(subfig_num))
+    col_num = ceil(subfig_num/row_num)
+
+    for index in range(1, subfig_num+1):
+        ax = plt.subplot(row_num, col_num, index)
+        ax.plot(data_lists[index-1])
+        ax.set_title(titles[index-1] if index <= len(titles) else '', fontproperties=chinese_font())
+        ax.set_xlabel(xlabels[index-1] if index <= len(xlabels) else '')   # 为x轴添加标签
+        ax.set_ylabel(labels[index-1] if index <= len(labels) else '')   # 为y轴添加标签
+    plt.tight_layout()   # 自动调整各子图间距
+    if save:
+        if not os.path.isdir(save_path):
+            os.makedirs(save_path)
+        plt.savefig(save_path+save_name)
+
 
 def plot_cn(data_list, title="环境-算法-数据", xlabel="episodes", label="rewards", save=True,  save_path="./",save_name="rewards_curve"):
     sns.set()

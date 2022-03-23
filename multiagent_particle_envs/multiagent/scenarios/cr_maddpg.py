@@ -16,6 +16,8 @@ class Scenario(BaseScenario):
         self.time_penalty = -0.5
         self.angle_dev = 2.0
         self.exit_boundary = -10.0
+        
+        self.episode=0
 
     def make_world(self,n_agents):
         world = World()
@@ -58,6 +60,9 @@ class Scenario(BaseScenario):
             world.agents[i].set_time_step(world.dt)
 
     def generate_random_agent_attribute(self, world, agent_id):
+        np.random.seed(self.episode)
+        self.episode+=1
+        
         square_width = world.boundary[1]
         if np.random.random() > 0.5:
             sign = -1

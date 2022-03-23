@@ -24,7 +24,7 @@ def get_args():
     parser.add_argument("--batch-size", type=int, default=128, help="number of episodes to optimize at the same time")
     # Checkpointing
     parser.add_argument("--save-dir", type=str, default="./model", help="directory in which training state and model should be saved")
-    parser.add_argument("--save-rate", type=int, default=500, help="save model once every time this many timesteps are completed")
+    parser.add_argument("--save-rate", type=int, default=200, help="save model once every time this many timesteps are completed")
     parser.add_argument("--model-dir", type=str, default="", help="directory in which training state and model are loaded")
 
     # Evaluate

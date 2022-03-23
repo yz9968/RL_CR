@@ -1,1 +1,0 @@
-del 30_actor_params.pkl

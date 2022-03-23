@@ -18,15 +18,14 @@ if __name__ =="__main__":
     # args.save_rate = 5 # default 500
     
     # need to try: 8 15 20 30 50
-    args.n_agents = 8 # default 30 
+    args.n_agents = 50 # default 30 
     args.render=False
 
-    from common.utils import make_env
     # env=None
     env, args = make_env(args)
 
     PPO_task = Task_PPO(args, env)
-    # PPO_task.train()
+    PPO_task.train()
     PPO_task.evaluate_model()
 
     # TODO: generate fixed random seed list for scenarios

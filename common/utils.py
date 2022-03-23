@@ -128,7 +128,7 @@ def store_args(method):
 
 
 def make_env(args):
-    from multiagent_particle_envs.multiagent.environment import MultiAgentEnv,  MultiAgentEnv_maddpg,MultiAgentEnv_ppo
+    from multiagent_particle_envs.multiagent.environment import MultiAgentEnv,MultiAgentEnv_maddpg,MultiAgentEnv_ppo,MultiAgentEnv_GRL
     import multiagent_particle_envs.multiagent.scenarios as scenarios
 
     # load scenario from script
@@ -138,11 +138,13 @@ def make_env(args):
     world = scenario.make_world(args.n_agents)
 
     device = torch.device("cuda:0" if torch.cuda.is_available() and args.gpu else "cpu")
-    logging.info('Using device: %s', device)
+    # logging.info('Using device: %s', device)
     USE_CUDA = torch.cuda.is_available()
     args.device = device
     # create multiagent environment
-    if args.scenario_name == 'cr_maddpg':
+    if args.scenario_name == 'cr_grl':
+        env = MultiAgentEnv_GRL(world, scenario.reset_world, scenario.reward, args=args)
+    elif args.scenario_name == 'cr_maddpg':
         env = MultiAgentEnv_maddpg(world, scenario.reset_world, scenario.reward, args=args)
     elif args.scenario_name == 'cr_ppo':
         env = MultiAgentEnv_ppo(world, scenario.reset_world, scenario.reward, args=args)

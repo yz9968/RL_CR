@@ -62,6 +62,7 @@ class Scenario(BaseScenario):
     def generate_random_agent_attribute(self, world, agent_id):
         np.random.seed(self.episode)
         self.episode+=1
+        
         square_width = world.boundary[1]
         if np.random.random() > 0.5:
             sign = -1

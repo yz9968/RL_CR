@@ -1,0 +1,709 @@
+2022-03-12 18:14:19,912 - INFO - Using device: cuda
+2022-03-12 18:14:21,571 - INFO - now evaluate the model
+2022-03-12 18:14:21,572 - INFO - eval model, episode 0
+2022-03-12 18:14:23,498 - INFO - =====eval res (evaluating the model)=====:
+2022-03-12 18:14:23,498 - INFO - Returns is 0.0
+2022-03-12 18:14:23,498 - INFO - conflict num :9.0
+2022-03-12 18:14:23,498 - INFO - nmac num: 0.0
+2022-03-12 18:14:23,498 - INFO - exit boundary num: 0
+2022-03-12 18:14:23,498 - INFO - success num: 30
+2022-03-12 18:14:23,499 - INFO - eval model, episode 1
+2022-03-12 18:14:24,582 - INFO - =====eval res (evaluating the model)=====:
+2022-03-12 18:14:24,582 - INFO - Returns is 0.0
+2022-03-12 18:14:24,582 - INFO - conflict num :99.5
+2022-03-12 18:14:24,583 - INFO - nmac num: 0.0
+2022-03-12 18:14:24,583 - INFO - exit boundary num: 4
+2022-03-12 18:14:24,583 - INFO - success num: 26
+2022-03-12 18:14:24,583 - INFO - eval model, episode 2
+2022-03-12 18:14:25,746 - INFO - =====eval res (evaluating the model)=====:
+2022-03-12 18:14:25,746 - INFO - Returns is 0.0
+2022-03-12 18:14:25,746 - INFO - conflict num :39.0
+2022-03-12 18:14:25,746 - INFO - nmac num: 0.0
+2022-03-12 18:14:25,746 - INFO - exit boundary num: 0
+2022-03-12 18:14:25,746 - INFO - success num: 30
+2022-03-12 18:14:25,746 - INFO - eval model, episode 3
+2022-03-12 18:14:26,846 - INFO - =====eval res (evaluating the model)=====:
+2022-03-12 18:14:26,846 - INFO - Returns is 0.0
+2022-03-12 18:14:26,846 - INFO - conflict num :18.0
+2022-03-12 18:14:26,846 - INFO - nmac num: 0.0
+2022-03-12 18:14:26,846 - INFO - exit boundary num: 0
+2022-03-12 18:14:26,846 - INFO - success num: 30
+2022-03-12 18:14:26,846 - INFO - eval model, episode 4
+2022-03-12 18:14:27,865 - INFO - =====eval res (evaluating the model)=====:
+2022-03-12 18:14:27,865 - INFO - Returns is 0.0
+2022-03-12 18:14:27,866 - INFO - conflict num :27.0
+2022-03-12 18:14:27,866 - INFO - nmac num: 0.0
+2022-03-12 18:14:27,866 - INFO - exit boundary num: 0
+2022-03-12 18:14:27,866 - INFO - success num: 30
+2022-03-12 18:14:27,866 - INFO - eval model, episode 5
+2022-03-12 18:14:29,387 - INFO - =====eval res (evaluating the model)=====:
+2022-03-12 18:14:29,387 - INFO - Returns is 0.0
+2022-03-12 18:14:29,388 - INFO - conflict num :36.0
+2022-03-12 18:14:29,388 - INFO - nmac num: 0.0
+2022-03-12 18:14:29,388 - INFO - exit boundary num: 1
+2022-03-12 18:14:29,388 - INFO - success num: 29
+2022-03-12 18:14:29,388 - INFO - eval model, episode 6
+2022-03-12 18:14:30,556 - INFO - =====eval res (evaluating the model)=====:
+2022-03-12 18:14:30,557 - INFO - Returns is 0.0
+2022-03-12 18:14:30,557 - INFO - conflict num :13.0
+2022-03-12 18:14:30,557 - INFO - nmac num: 0.0
+2022-03-12 18:14:30,557 - INFO - exit boundary num: 0
+2022-03-12 18:14:30,557 - INFO - success num: 30
+2022-03-12 18:14:30,557 - INFO - eval model, episode 7
+2022-03-12 18:14:31,799 - INFO - =====eval res (evaluating the model)=====:
+2022-03-12 18:14:31,799 - INFO - Returns is 0.0
+2022-03-12 18:14:31,799 - INFO - conflict num :24.0
+2022-03-12 18:14:31,799 - INFO - nmac num: 0.0
+2022-03-12 18:14:31,800 - INFO - exit boundary num: 0
+2022-03-12 18:14:31,800 - INFO - success num: 30
+2022-03-12 18:14:31,800 - INFO - eval model, episode 8
+2022-03-12 18:14:32,955 - INFO - =====eval res (evaluating the model)=====:
+2022-03-12 18:14:32,955 - INFO - Returns is 0.0
+2022-03-12 18:14:32,955 - INFO - conflict num :20.0
+2022-03-12 18:14:32,956 - INFO - nmac num: 0.0
+2022-03-12 18:14:32,956 - INFO - exit boundary num: 0
+2022-03-12 18:14:32,956 - INFO - success num: 30
+2022-03-12 18:14:32,956 - INFO - eval model, episode 9
+2022-03-12 18:14:34,050 - INFO - =====eval res (evaluating the model)=====:
+2022-03-12 18:14:34,050 - INFO - Returns is 0.0
+2022-03-12 18:14:34,050 - INFO - conflict num :14.0
+2022-03-12 18:14:34,050 - INFO - nmac num: 0.0
+2022-03-12 18:14:34,050 - INFO - exit boundary num: 0
+2022-03-12 18:14:34,050 - INFO - success num: 30
+2022-03-12 18:14:34,050 - INFO - eval model, episode 10
+2022-03-12 18:14:35,069 - INFO - =====eval res (evaluating the model)=====:
+2022-03-12 18:14:35,070 - INFO - Returns is 0.0
+2022-03-12 18:14:35,070 - INFO - conflict num :7.0
+2022-03-12 18:14:35,070 - INFO - nmac num: 0.0
+2022-03-12 18:14:35,070 - INFO - exit boundary num: 0
+2022-03-12 18:14:35,070 - INFO - success num: 30
+2022-03-12 18:14:35,070 - INFO - eval model, episode 11
+2022-03-12 18:14:36,178 - INFO - =====eval res (evaluating the model)=====:
+2022-03-12 18:14:36,179 - INFO - Returns is 0.0
+2022-03-12 18:14:36,179 - INFO - conflict num :35.0
+2022-03-12 18:14:36,179 - INFO - nmac num: 0.0
+2022-03-12 18:14:36,179 - INFO - exit boundary num: 0
+2022-03-12 18:14:36,179 - INFO - success num: 30
+2022-03-12 18:14:36,179 - INFO - eval model, episode 12
+2022-03-12 18:14:37,373 - INFO - =====eval res (evaluating the model)=====:
+2022-03-12 18:14:37,374 - INFO - Returns is 0.0
+2022-03-12 18:14:37,374 - INFO - conflict num :8.0
+2022-03-12 18:14:37,374 - INFO - nmac num: 0.0
+2022-03-12 18:14:37,374 - INFO - exit boundary num: 0
+2022-03-12 18:14:37,374 - INFO - success num: 30
+2022-03-12 18:14:37,374 - INFO - eval model, episode 13
+2022-03-12 18:14:38,648 - INFO - =====eval res (evaluating the model)=====:
+2022-03-12 18:14:38,648 - INFO - Returns is 0.0
+2022-03-12 18:14:38,648 - INFO - conflict num :19.0
+2022-03-12 18:14:38,648 - INFO - nmac num: 0.0
+2022-03-12 18:14:38,648 - INFO - exit boundary num: 0
+2022-03-12 18:14:38,648 - INFO - success num: 30
+2022-03-12 18:14:38,648 - INFO - eval model, episode 14
+2022-03-12 18:14:39,962 - INFO - =====eval res (evaluating the model)=====:
+2022-03-12 18:14:39,962 - INFO - Returns is 0.0
+2022-03-12 18:14:39,962 - INFO - conflict num :12.0
+2022-03-12 18:14:39,962 - INFO - nmac num: 0.0
+2022-03-12 18:14:39,962 - INFO - exit boundary num: 2
+2022-03-12 18:14:39,962 - INFO - success num: 28
+2022-03-12 18:14:39,962 - INFO - eval model, episode 15
+2022-03-12 18:14:41,131 - INFO - =====eval res (evaluating the model)=====:
+2022-03-12 18:14:41,131 - INFO - Returns is 0.0
+2022-03-12 18:14:41,131 - INFO - conflict num :33.0
+2022-03-12 18:14:41,131 - INFO - nmac num: 0.0
+2022-03-12 18:14:41,131 - INFO - exit boundary num: 0
+2022-03-12 18:14:41,132 - INFO - success num: 30
+2022-03-12 18:14:41,132 - INFO - eval model, episode 16
+2022-03-12 18:14:42,511 - INFO - =====eval res (evaluating the model)=====:
+2022-03-12 18:14:42,511 - INFO - Returns is 0.0
+2022-03-12 18:14:42,511 - INFO - conflict num :29.0
+2022-03-12 18:14:42,511 - INFO - nmac num: 0.0
+2022-03-12 18:14:42,511 - INFO - exit boundary num: 0
+2022-03-12 18:14:42,511 - INFO - success num: 30
+2022-03-12 18:14:42,511 - INFO - eval model, episode 17
+2022-03-12 18:14:43,518 - INFO - =====eval res (evaluating the model)=====:
+2022-03-12 18:14:43,518 - INFO - Returns is 0.0
+2022-03-12 18:14:43,518 - INFO - conflict num :28.0
+2022-03-12 18:14:43,518 - INFO - nmac num: 0.0
+2022-03-12 18:14:43,518 - INFO - exit boundary num: 0
+2022-03-12 18:14:43,518 - INFO - success num: 30
+2022-03-12 18:14:43,518 - INFO - eval model, episode 18
+2022-03-12 18:14:44,589 - INFO - =====eval res (evaluating the model)=====:
+2022-03-12 18:14:44,589 - INFO - Returns is 0.0
+2022-03-12 18:14:44,589 - INFO - conflict num :20.0
+2022-03-12 18:14:44,589 - INFO - nmac num: 0.0
+2022-03-12 18:14:44,589 - INFO - exit boundary num: 0
+2022-03-12 18:14:44,589 - INFO - success num: 30
+2022-03-12 18:14:44,589 - INFO - eval model, episode 19
+2022-03-12 18:14:45,640 - INFO - =====eval res (evaluating the model)=====:
+2022-03-12 18:14:45,640 - INFO - Returns is 0.0
+2022-03-12 18:14:45,640 - INFO - conflict num :28.0
+2022-03-12 18:14:45,640 - INFO - nmac num: 0.0
+2022-03-12 18:14:45,640 - INFO - exit boundary num: 0
+2022-03-12 18:14:45,640 - INFO - success num: 30
+2022-03-12 18:14:45,640 - INFO - eval model, episode 20
+2022-03-12 18:14:46,728 - INFO - =====eval res (evaluating the model)=====:
+2022-03-12 18:14:46,728 - INFO - Returns is 0.0
+2022-03-12 18:14:46,728 - INFO - conflict num :22.0
+2022-03-12 18:14:46,728 - INFO - nmac num: 0.0
+2022-03-12 18:14:46,728 - INFO - exit boundary num: 0
+2022-03-12 18:14:46,728 - INFO - success num: 30
+2022-03-12 18:14:46,728 - INFO - eval model, episode 21
+2022-03-12 18:14:47,888 - INFO - =====eval res (evaluating the model)=====:
+2022-03-12 18:14:47,888 - INFO - Returns is 0.0
+2022-03-12 18:14:47,888 - INFO - conflict num :13.0
+2022-03-12 18:14:47,888 - INFO - nmac num: 0.0
+2022-03-12 18:14:47,888 - INFO - exit boundary num: 0
+2022-03-12 18:14:47,888 - INFO - success num: 30
+2022-03-12 18:14:47,888 - INFO - eval model, episode 22
+2022-03-12 18:14:49,013 - INFO - =====eval res (evaluating the model)=====:
+2022-03-12 18:14:49,013 - INFO - Returns is 0.0
+2022-03-12 18:14:49,013 - INFO - conflict num :35.0
+2022-03-12 18:14:49,013 - INFO - nmac num: 0.0
+2022-03-12 18:14:49,013 - INFO - exit boundary num: 0
+2022-03-12 18:14:49,013 - INFO - success num: 30
+2022-03-12 18:14:49,013 - INFO - eval model, episode 23
+2022-03-12 18:14:50,092 - INFO - =====eval res (evaluating the model)=====:
+2022-03-12 18:14:50,092 - INFO - Returns is 0.0
+2022-03-12 18:14:50,092 - INFO - conflict num :16.0
+2022-03-12 18:14:50,093 - INFO - nmac num: 0.0
+2022-03-12 18:14:50,093 - INFO - exit boundary num: 0
+2022-03-12 18:14:50,093 - INFO - success num: 30
+2022-03-12 18:14:50,093 - INFO - eval model, episode 24
+2022-03-12 18:14:51,088 - INFO - =====eval res (evaluating the model)=====:
+2022-03-12 18:14:51,088 - INFO - Returns is 0.0
+2022-03-12 18:14:51,088 - INFO - conflict num :6.0
+2022-03-12 18:14:51,088 - INFO - nmac num: 0.0
+2022-03-12 18:14:51,088 - INFO - exit boundary num: 0
+2022-03-12 18:14:51,088 - INFO - success num: 30
+2022-03-12 18:14:51,088 - INFO - eval model, episode 25
+2022-03-12 18:14:52,387 - INFO - =====eval res (evaluating the model)=====:
+2022-03-12 18:14:52,387 - INFO - Returns is 0.0
+2022-03-12 18:14:52,387 - INFO - conflict num :39.0
+2022-03-12 18:14:52,387 - INFO - nmac num: 0.0
+2022-03-12 18:14:52,387 - INFO - exit boundary num: 1
+2022-03-12 18:14:52,388 - INFO - success num: 29
+2022-03-12 18:14:52,388 - INFO - eval model, episode 26
+2022-03-12 18:14:53,781 - INFO - =====eval res (evaluating the model)=====:
+2022-03-12 18:14:53,782 - INFO - Returns is 0.0
+2022-03-12 18:14:53,782 - INFO - conflict num :30.0
+2022-03-12 18:14:53,782 - INFO - nmac num: 0.0
+2022-03-12 18:14:53,782 - INFO - exit boundary num: 0
+2022-03-12 18:14:53,782 - INFO - success num: 30
+2022-03-12 18:14:53,782 - INFO - eval model, episode 27
+2022-03-12 18:14:54,998 - INFO - =====eval res (evaluating the model)=====:
+2022-03-12 18:14:54,998 - INFO - Returns is 0.0
+2022-03-12 18:14:54,998 - INFO - conflict num :22.0
+2022-03-12 18:14:54,998 - INFO - nmac num: 0.0
+2022-03-12 18:14:54,998 - INFO - exit boundary num: 0
+2022-03-12 18:14:54,998 - INFO - success num: 30
+2022-03-12 18:14:54,998 - INFO - eval model, episode 28
+2022-03-12 18:14:56,173 - INFO - =====eval res (evaluating the model)=====:
+2022-03-12 18:14:56,173 - INFO - Returns is 0.0
+2022-03-12 18:14:56,173 - INFO - conflict num :18.0
+2022-03-12 18:14:56,173 - INFO - nmac num: 0.0
+2022-03-12 18:14:56,173 - INFO - exit boundary num: 0
+2022-03-12 18:14:56,173 - INFO - success num: 30
+2022-03-12 18:14:56,173 - INFO - eval model, episode 29
+2022-03-12 18:14:57,426 - INFO - =====eval res (evaluating the model)=====:
+2022-03-12 18:14:57,427 - INFO - Returns is 0.0
+2022-03-12 18:14:57,427 - INFO - conflict num :16.0
+2022-03-12 18:14:57,427 - INFO - nmac num: 0.0
+2022-03-12 18:14:57,427 - INFO - exit boundary num: 0
+2022-03-12 18:14:57,427 - INFO - success num: 30
+2022-03-12 18:14:57,427 - INFO - eval model, episode 30
+2022-03-12 18:14:58,675 - INFO - =====eval res (evaluating the model)=====:
+2022-03-12 18:14:58,675 - INFO - Returns is 0.0
+2022-03-12 18:14:58,676 - INFO - conflict num :28.0
+2022-03-12 18:14:58,676 - INFO - nmac num: 0.0
+2022-03-12 18:14:58,676 - INFO - exit boundary num: 0
+2022-03-12 18:14:58,676 - INFO - success num: 30
+2022-03-12 18:14:58,676 - INFO - eval model, episode 31
+2022-03-12 18:14:59,634 - INFO - =====eval res (evaluating the model)=====:
+2022-03-12 18:14:59,634 - INFO - Returns is 0.0
+2022-03-12 18:14:59,634 - INFO - conflict num :12.0
+2022-03-12 18:14:59,634 - INFO - nmac num: 0.0
+2022-03-12 18:14:59,634 - INFO - exit boundary num: 0
+2022-03-12 18:14:59,635 - INFO - success num: 30
+2022-03-12 18:14:59,635 - INFO - eval model, episode 32
+2022-03-12 18:15:00,973 - INFO - =====eval res (evaluating the model)=====:
+2022-03-12 18:15:00,974 - INFO - Returns is 0.0
+2022-03-12 18:15:00,974 - INFO - conflict num :80.0
+2022-03-12 18:15:00,974 - INFO - nmac num: 0.0
+2022-03-12 18:15:00,974 - INFO - exit boundary num: 0
+2022-03-12 18:15:00,974 - INFO - success num: 30
+2022-03-12 18:15:00,974 - INFO - eval model, episode 33
+2022-03-12 18:15:02,091 - INFO - =====eval res (evaluating the model)=====:
+2022-03-12 18:15:02,091 - INFO - Returns is 0.0
+2022-03-12 18:15:02,092 - INFO - conflict num :15.0
+2022-03-12 18:15:02,092 - INFO - nmac num: 0.0
+2022-03-12 18:15:02,092 - INFO - exit boundary num: 0
+2022-03-12 18:15:02,092 - INFO - success num: 30
+2022-03-12 18:15:02,092 - INFO - eval model, episode 34
+2022-03-12 18:15:03,173 - INFO - =====eval res (evaluating the model)=====:
+2022-03-12 18:15:03,173 - INFO - Returns is 0.0
+2022-03-12 18:15:03,173 - INFO - conflict num :30.0
+2022-03-12 18:15:03,173 - INFO - nmac num: 0.0
+2022-03-12 18:15:03,173 - INFO - exit boundary num: 0
+2022-03-12 18:15:03,173 - INFO - success num: 30
+2022-03-12 18:15:03,173 - INFO - eval model, episode 35
+2022-03-12 18:15:04,283 - INFO - =====eval res (evaluating the model)=====:
+2022-03-12 18:15:04,283 - INFO - Returns is 0.0
+2022-03-12 18:15:04,283 - INFO - conflict num :27.0
+2022-03-12 18:15:04,283 - INFO - nmac num: 0.0
+2022-03-12 18:15:04,283 - INFO - exit boundary num: 0
+2022-03-12 18:15:04,283 - INFO - success num: 30
+2022-03-12 18:15:04,283 - INFO - eval model, episode 36
+2022-03-12 18:15:05,273 - INFO - =====eval res (evaluating the model)=====:
+2022-03-12 18:15:05,273 - INFO - Returns is 0.0
+2022-03-12 18:15:05,273 - INFO - conflict num :11.0
+2022-03-12 18:15:05,273 - INFO - nmac num: 0.0
+2022-03-12 18:15:05,273 - INFO - exit boundary num: 0
+2022-03-12 18:15:05,273 - INFO - success num: 30
+2022-03-12 18:15:05,273 - INFO - eval model, episode 37
+2022-03-12 18:15:06,370 - INFO - =====eval res (evaluating the model)=====:
+2022-03-12 18:15:06,370 - INFO - Returns is 0.0
+2022-03-12 18:15:06,370 - INFO - conflict num :8.0
+2022-03-12 18:15:06,370 - INFO - nmac num: 0.0
+2022-03-12 18:15:06,370 - INFO - exit boundary num: 0
+2022-03-12 18:15:06,371 - INFO - success num: 30
+2022-03-12 18:15:06,371 - INFO - eval model, episode 38
+2022-03-12 18:15:07,451 - INFO - =====eval res (evaluating the model)=====:
+2022-03-12 18:15:07,451 - INFO - Returns is 0.0
+2022-03-12 18:15:07,451 - INFO - conflict num :21.0
+2022-03-12 18:15:07,451 - INFO - nmac num: 0.0
+2022-03-12 18:15:07,451 - INFO - exit boundary num: 0
+2022-03-12 18:15:07,451 - INFO - success num: 30
+2022-03-12 18:15:07,451 - INFO - eval model, episode 39
+2022-03-12 18:15:08,665 - INFO - =====eval res (evaluating the model)=====:
+2022-03-12 18:15:08,665 - INFO - Returns is 0.0
+2022-03-12 18:15:08,665 - INFO - conflict num :42.0
+2022-03-12 18:15:08,666 - INFO - nmac num: 0.0
+2022-03-12 18:15:08,666 - INFO - exit boundary num: 0
+2022-03-12 18:15:08,666 - INFO - success num: 30
+2022-03-12 18:15:08,666 - INFO - eval model, episode 40
+2022-03-12 18:15:09,872 - INFO - =====eval res (evaluating the model)=====:
+2022-03-12 18:15:09,872 - INFO - Returns is 0.0
+2022-03-12 18:15:09,872 - INFO - conflict num :15.0
+2022-03-12 18:15:09,872 - INFO - nmac num: 0.0
+2022-03-12 18:15:09,872 - INFO - exit boundary num: 0
+2022-03-12 18:15:09,872 - INFO - success num: 30
+2022-03-12 18:15:09,872 - INFO - eval model, episode 41
+2022-03-12 18:15:11,357 - INFO - =====eval res (evaluating the model)=====:
+2022-03-12 18:15:11,357 - INFO - Returns is 0.0
+2022-03-12 18:15:11,357 - INFO - conflict num :93.0
+2022-03-12 18:15:11,357 - INFO - nmac num: 0.0
+2022-03-12 18:15:11,357 - INFO - exit boundary num: 0
+2022-03-12 18:15:11,357 - INFO - success num: 28
+2022-03-12 18:15:11,357 - INFO - eval model, episode 42
+2022-03-12 18:15:12,512 - INFO - =====eval res (evaluating the model)=====:
+2022-03-12 18:15:12,512 - INFO - Returns is 0.0
+2022-03-12 18:15:12,512 - INFO - conflict num :9.0
+2022-03-12 18:15:12,512 - INFO - nmac num: 0.0
+2022-03-12 18:15:12,512 - INFO - exit boundary num: 0
+2022-03-12 18:15:12,512 - INFO - success num: 30
+2022-03-12 18:15:12,512 - INFO - eval model, episode 43
+2022-03-12 18:15:13,407 - INFO - =====eval res (evaluating the model)=====:
+2022-03-12 18:15:13,407 - INFO - Returns is 0.0
+2022-03-12 18:15:13,407 - INFO - conflict num :7.0
+2022-03-12 18:15:13,407 - INFO - nmac num: 0.0
+2022-03-12 18:15:13,407 - INFO - exit boundary num: 0
+2022-03-12 18:15:13,407 - INFO - success num: 30
+2022-03-12 18:15:13,407 - INFO - eval model, episode 44
+2022-03-12 18:15:14,574 - INFO - =====eval res (evaluating the model)=====:
+2022-03-12 18:15:14,574 - INFO - Returns is 0.0
+2022-03-12 18:15:14,574 - INFO - conflict num :18.0
+2022-03-12 18:15:14,574 - INFO - nmac num: 0.0
+2022-03-12 18:15:14,574 - INFO - exit boundary num: 0
+2022-03-12 18:15:14,574 - INFO - success num: 30
+2022-03-12 18:15:14,574 - INFO - eval model, episode 45
+2022-03-12 18:15:15,798 - INFO - =====eval res (evaluating the model)=====:
+2022-03-12 18:15:15,799 - INFO - Returns is 0.0
+2022-03-12 18:15:15,799 - INFO - conflict num :13.0
+2022-03-12 18:15:15,799 - INFO - nmac num: 0.0
+2022-03-12 18:15:15,799 - INFO - exit boundary num: 1
+2022-03-12 18:15:15,799 - INFO - success num: 29
+2022-03-12 18:15:15,799 - INFO - eval model, episode 46
+2022-03-12 18:15:16,875 - INFO - =====eval res (evaluating the model)=====:
+2022-03-12 18:15:16,875 - INFO - Returns is 0.0
+2022-03-12 18:15:16,875 - INFO - conflict num :19.0
+2022-03-12 18:15:16,875 - INFO - nmac num: 0.0
+2022-03-12 18:15:16,875 - INFO - exit boundary num: 0
+2022-03-12 18:15:16,875 - INFO - success num: 30
+2022-03-12 18:15:16,875 - INFO - eval model, episode 47
+2022-03-12 18:15:17,858 - INFO - =====eval res (evaluating the model)=====:
+2022-03-12 18:15:17,858 - INFO - Returns is 0.0
+2022-03-12 18:15:17,858 - INFO - conflict num :10.0
+2022-03-12 18:15:17,858 - INFO - nmac num: 0.0
+2022-03-12 18:15:17,858 - INFO - exit boundary num: 0
+2022-03-12 18:15:17,858 - INFO - success num: 30
+2022-03-12 18:15:17,858 - INFO - eval model, episode 48
+2022-03-12 18:15:18,803 - INFO - =====eval res (evaluating the model)=====:
+2022-03-12 18:15:18,803 - INFO - Returns is 0.0
+2022-03-12 18:15:18,803 - INFO - conflict num :13.0
+2022-03-12 18:15:18,803 - INFO - nmac num: 0.0
+2022-03-12 18:15:18,804 - INFO - exit boundary num: 0
+2022-03-12 18:15:18,804 - INFO - success num: 30
+2022-03-12 18:15:18,804 - INFO - eval model, episode 49
+2022-03-12 18:15:19,881 - INFO - =====eval res (evaluating the model)=====:
+2022-03-12 18:15:19,882 - INFO - Returns is 0.0
+2022-03-12 18:15:19,882 - INFO - conflict num :8.0
+2022-03-12 18:15:19,882 - INFO - nmac num: 0.0
+2022-03-12 18:15:19,882 - INFO - exit boundary num: 0
+2022-03-12 18:15:19,882 - INFO - success num: 30
+2022-03-12 18:15:19,882 - INFO - eval model, episode 50
+2022-03-12 18:15:21,090 - INFO - =====eval res (evaluating the model)=====:
+2022-03-12 18:15:21,090 - INFO - Returns is 0.0
+2022-03-12 18:15:21,090 - INFO - conflict num :35.0
+2022-03-12 18:15:21,090 - INFO - nmac num: 0.0
+2022-03-12 18:15:21,090 - INFO - exit boundary num: 0
+2022-03-12 18:15:21,090 - INFO - success num: 30
+2022-03-12 18:15:21,090 - INFO - eval model, episode 51
+2022-03-12 18:15:22,320 - INFO - =====eval res (evaluating the model)=====:
+2022-03-12 18:15:22,320 - INFO - Returns is 0.0
+2022-03-12 18:15:22,320 - INFO - conflict num :51.0
+2022-03-12 18:15:22,320 - INFO - nmac num: 0.0
+2022-03-12 18:15:22,320 - INFO - exit boundary num: 0
+2022-03-12 18:15:22,320 - INFO - success num: 30
+2022-03-12 18:15:22,320 - INFO - eval model, episode 52
+2022-03-12 18:15:23,393 - INFO - =====eval res (evaluating the model)=====:
+2022-03-12 18:15:23,393 - INFO - Returns is 0.0
+2022-03-12 18:15:23,393 - INFO - conflict num :13.0
+2022-03-12 18:15:23,393 - INFO - nmac num: 0.0
+2022-03-12 18:15:23,393 - INFO - exit boundary num: 0
+2022-03-12 18:15:23,393 - INFO - success num: 30
+2022-03-12 18:15:23,393 - INFO - eval model, episode 53
+2022-03-12 18:15:24,516 - INFO - =====eval res (evaluating the model)=====:
+2022-03-12 18:15:24,516 - INFO - Returns is 0.0
+2022-03-12 18:15:24,516 - INFO - conflict num :17.0
+2022-03-12 18:15:24,517 - INFO - nmac num: 0.0
+2022-03-12 18:15:24,517 - INFO - exit boundary num: 0
+2022-03-12 18:15:24,517 - INFO - success num: 30
+2022-03-12 18:15:24,517 - INFO - eval model, episode 54
+2022-03-12 18:15:25,507 - INFO - =====eval res (evaluating the model)=====:
+2022-03-12 18:15:25,507 - INFO - Returns is 0.0
+2022-03-12 18:15:25,507 - INFO - conflict num :10.0
+2022-03-12 18:15:25,507 - INFO - nmac num: 0.0
+2022-03-12 18:15:25,507 - INFO - exit boundary num: 0
+2022-03-12 18:15:25,507 - INFO - success num: 30
+2022-03-12 18:15:25,507 - INFO - eval model, episode 55
+2022-03-12 18:15:26,567 - INFO - =====eval res (evaluating the model)=====:
+2022-03-12 18:15:26,567 - INFO - Returns is 0.0
+2022-03-12 18:15:26,567 - INFO - conflict num :17.0
+2022-03-12 18:15:26,567 - INFO - nmac num: 0.0
+2022-03-12 18:15:26,567 - INFO - exit boundary num: 0
+2022-03-12 18:15:26,567 - INFO - success num: 30
+2022-03-12 18:15:26,567 - INFO - eval model, episode 56
+2022-03-12 18:15:27,736 - INFO - =====eval res (evaluating the model)=====:
+2022-03-12 18:15:27,736 - INFO - Returns is 0.0
+2022-03-12 18:15:27,736 - INFO - conflict num :25.0
+2022-03-12 18:15:27,736 - INFO - nmac num: 0.0
+2022-03-12 18:15:27,736 - INFO - exit boundary num: 0
+2022-03-12 18:15:27,736 - INFO - success num: 30
+2022-03-12 18:15:27,736 - INFO - eval model, episode 57
+2022-03-12 18:15:28,819 - INFO - =====eval res (evaluating the model)=====:
+2022-03-12 18:15:28,820 - INFO - Returns is 0.0
+2022-03-12 18:15:28,820 - INFO - conflict num :45.0
+2022-03-12 18:15:28,820 - INFO - nmac num: 0.0
+2022-03-12 18:15:28,820 - INFO - exit boundary num: 0
+2022-03-12 18:15:28,820 - INFO - success num: 30
+2022-03-12 18:15:28,820 - INFO - eval model, episode 58
+2022-03-12 18:15:29,959 - INFO - =====eval res (evaluating the model)=====:
+2022-03-12 18:15:29,959 - INFO - Returns is 0.0
+2022-03-12 18:15:29,959 - INFO - conflict num :17.0
+2022-03-12 18:15:29,959 - INFO - nmac num: 0.0
+2022-03-12 18:15:29,959 - INFO - exit boundary num: 0
+2022-03-12 18:15:29,959 - INFO - success num: 30
+2022-03-12 18:15:29,959 - INFO - eval model, episode 59
+2022-03-12 18:15:30,868 - INFO - =====eval res (evaluating the model)=====:
+2022-03-12 18:15:30,868 - INFO - Returns is 0.0
+2022-03-12 18:15:30,868 - INFO - conflict num :14.0
+2022-03-12 18:15:30,868 - INFO - nmac num: 0.0
+2022-03-12 18:15:30,868 - INFO - exit boundary num: 0
+2022-03-12 18:15:30,868 - INFO - success num: 30
+2022-03-12 18:15:30,868 - INFO - eval model, episode 60
+2022-03-12 18:15:31,993 - INFO - =====eval res (evaluating the model)=====:
+2022-03-12 18:15:31,993 - INFO - Returns is 0.0
+2022-03-12 18:15:31,993 - INFO - conflict num :17.0
+2022-03-12 18:15:31,993 - INFO - nmac num: 0.0
+2022-03-12 18:15:31,993 - INFO - exit boundary num: 0
+2022-03-12 18:15:31,993 - INFO - success num: 30
+2022-03-12 18:15:31,993 - INFO - eval model, episode 61
+2022-03-12 18:15:33,077 - INFO - =====eval res (evaluating the model)=====:
+2022-03-12 18:15:33,077 - INFO - Returns is 0.0
+2022-03-12 18:15:33,077 - INFO - conflict num :14.0
+2022-03-12 18:15:33,077 - INFO - nmac num: 0.0
+2022-03-12 18:15:33,077 - INFO - exit boundary num: 1
+2022-03-12 18:15:33,077 - INFO - success num: 29
+2022-03-12 18:15:33,077 - INFO - eval model, episode 62
+2022-03-12 18:15:34,115 - INFO - =====eval res (evaluating the model)=====:
+2022-03-12 18:15:34,115 - INFO - Returns is 0.0
+2022-03-12 18:15:34,115 - INFO - conflict num :7.0
+2022-03-12 18:15:34,115 - INFO - nmac num: 0.0
+2022-03-12 18:15:34,115 - INFO - exit boundary num: 1
+2022-03-12 18:15:34,115 - INFO - success num: 29
+2022-03-12 18:15:34,115 - INFO - eval model, episode 63
+2022-03-12 18:15:35,117 - INFO - =====eval res (evaluating the model)=====:
+2022-03-12 18:15:35,117 - INFO - Returns is 0.0
+2022-03-12 18:15:35,117 - INFO - conflict num :9.0
+2022-03-12 18:15:35,117 - INFO - nmac num: 0.0
+2022-03-12 18:15:35,117 - INFO - exit boundary num: 0
+2022-03-12 18:15:35,117 - INFO - success num: 30
+2022-03-12 18:15:35,117 - INFO - eval model, episode 64
+2022-03-12 18:15:36,254 - INFO - =====eval res (evaluating the model)=====:
+2022-03-12 18:15:36,255 - INFO - Returns is 0.0
+2022-03-12 18:15:36,255 - INFO - conflict num :25.0
+2022-03-12 18:15:36,255 - INFO - nmac num: 0.0
+2022-03-12 18:15:36,255 - INFO - exit boundary num: 0
+2022-03-12 18:15:36,255 - INFO - success num: 30
+2022-03-12 18:15:36,255 - INFO - eval model, episode 65
+2022-03-12 18:15:37,278 - INFO - =====eval res (evaluating the model)=====:
+2022-03-12 18:15:37,278 - INFO - Returns is 0.0
+2022-03-12 18:15:37,278 - INFO - conflict num :8.0
+2022-03-12 18:15:37,278 - INFO - nmac num: 0.0
+2022-03-12 18:15:37,278 - INFO - exit boundary num: 0
+2022-03-12 18:15:37,278 - INFO - success num: 30
+2022-03-12 18:15:37,278 - INFO - eval model, episode 66
+2022-03-12 18:15:38,677 - INFO - =====eval res (evaluating the model)=====:
+2022-03-12 18:15:38,677 - INFO - Returns is 0.0
+2022-03-12 18:15:38,677 - INFO - conflict num :39.0
+2022-03-12 18:15:38,677 - INFO - nmac num: 0.0
+2022-03-12 18:15:38,677 - INFO - exit boundary num: 0
+2022-03-12 18:15:38,677 - INFO - success num: 30
+2022-03-12 18:15:38,677 - INFO - eval model, episode 67
+2022-03-12 18:15:39,884 - INFO - =====eval res (evaluating the model)=====:
+2022-03-12 18:15:39,884 - INFO - Returns is 0.0
+2022-03-12 18:15:39,884 - INFO - conflict num :3.0
+2022-03-12 18:15:39,884 - INFO - nmac num: 0.0
+2022-03-12 18:15:39,884 - INFO - exit boundary num: 0
+2022-03-12 18:15:39,884 - INFO - success num: 30
+2022-03-12 18:15:39,884 - INFO - eval model, episode 68
+2022-03-12 18:15:41,045 - INFO - =====eval res (evaluating the model)=====:
+2022-03-12 18:15:41,045 - INFO - Returns is 0.0
+2022-03-12 18:15:41,045 - INFO - conflict num :15.0
+2022-03-12 18:15:41,045 - INFO - nmac num: 0.0
+2022-03-12 18:15:41,045 - INFO - exit boundary num: 0
+2022-03-12 18:15:41,045 - INFO - success num: 30
+2022-03-12 18:15:41,045 - INFO - eval model, episode 69
+2022-03-12 18:15:42,232 - INFO - =====eval res (evaluating the model)=====:
+2022-03-12 18:15:42,232 - INFO - Returns is 0.0
+2022-03-12 18:15:42,232 - INFO - conflict num :26.0
+2022-03-12 18:15:42,232 - INFO - nmac num: 0.0
+2022-03-12 18:15:42,232 - INFO - exit boundary num: 0
+2022-03-12 18:15:42,232 - INFO - success num: 30
+2022-03-12 18:15:42,232 - INFO - eval model, episode 70
+2022-03-12 18:15:43,386 - INFO - =====eval res (evaluating the model)=====:
+2022-03-12 18:15:43,386 - INFO - Returns is 0.0
+2022-03-12 18:15:43,386 - INFO - conflict num :22.0
+2022-03-12 18:15:43,386 - INFO - nmac num: 0.0
+2022-03-12 18:15:43,386 - INFO - exit boundary num: 0
+2022-03-12 18:15:43,386 - INFO - success num: 30
+2022-03-12 18:15:43,386 - INFO - eval model, episode 71
+2022-03-12 18:15:44,576 - INFO - =====eval res (evaluating the model)=====:
+2022-03-12 18:15:44,576 - INFO - Returns is 0.0
+2022-03-12 18:15:44,576 - INFO - conflict num :10.0
+2022-03-12 18:15:44,576 - INFO - nmac num: 0.0
+2022-03-12 18:15:44,576 - INFO - exit boundary num: 0
+2022-03-12 18:15:44,576 - INFO - success num: 30
+2022-03-12 18:15:44,576 - INFO - eval model, episode 72
+2022-03-12 18:15:45,632 - INFO - =====eval res (evaluating the model)=====:
+2022-03-12 18:15:45,632 - INFO - Returns is 0.0
+2022-03-12 18:15:45,632 - INFO - conflict num :31.0
+2022-03-12 18:15:45,632 - INFO - nmac num: 0.0
+2022-03-12 18:15:45,632 - INFO - exit boundary num: 0
+2022-03-12 18:15:45,632 - INFO - success num: 30
+2022-03-12 18:15:45,632 - INFO - eval model, episode 73
+2022-03-12 18:15:46,656 - INFO - =====eval res (evaluating the model)=====:
+2022-03-12 18:15:46,656 - INFO - Returns is 0.0
+2022-03-12 18:15:46,656 - INFO - conflict num :24.0
+2022-03-12 18:15:46,656 - INFO - nmac num: 0.0
+2022-03-12 18:15:46,656 - INFO - exit boundary num: 0
+2022-03-12 18:15:46,656 - INFO - success num: 30
+2022-03-12 18:15:46,656 - INFO - eval model, episode 74
+2022-03-12 18:15:47,767 - INFO - =====eval res (evaluating the model)=====:
+2022-03-12 18:15:47,767 - INFO - Returns is 0.0
+2022-03-12 18:15:47,767 - INFO - conflict num :9.0
+2022-03-12 18:15:47,767 - INFO - nmac num: 0.0
+2022-03-12 18:15:47,767 - INFO - exit boundary num: 0
+2022-03-12 18:15:47,767 - INFO - success num: 30
+2022-03-12 18:15:47,768 - INFO - eval model, episode 75
+2022-03-12 18:15:48,922 - INFO - =====eval res (evaluating the model)=====:
+2022-03-12 18:15:48,922 - INFO - Returns is 0.0
+2022-03-12 18:15:48,922 - INFO - conflict num :36.0
+2022-03-12 18:15:48,922 - INFO - nmac num: 0.0
+2022-03-12 18:15:48,922 - INFO - exit boundary num: 1
+2022-03-12 18:15:48,922 - INFO - success num: 29
+2022-03-12 18:15:48,922 - INFO - eval model, episode 76
+2022-03-12 18:15:50,151 - INFO - =====eval res (evaluating the model)=====:
+2022-03-12 18:15:50,151 - INFO - Returns is 0.0
+2022-03-12 18:15:50,151 - INFO - conflict num :16.0
+2022-03-12 18:15:50,151 - INFO - nmac num: 0.0
+2022-03-12 18:15:50,151 - INFO - exit boundary num: 0
+2022-03-12 18:15:50,151 - INFO - success num: 30
+2022-03-12 18:15:50,151 - INFO - eval model, episode 77
+2022-03-12 18:15:51,211 - INFO - =====eval res (evaluating the model)=====:
+2022-03-12 18:15:51,211 - INFO - Returns is 0.0
+2022-03-12 18:15:51,211 - INFO - conflict num :31.0
+2022-03-12 18:15:51,211 - INFO - nmac num: 0.0
+2022-03-12 18:15:51,211 - INFO - exit boundary num: 0
+2022-03-12 18:15:51,211 - INFO - success num: 30
+2022-03-12 18:15:51,211 - INFO - eval model, episode 78
+2022-03-12 18:15:52,277 - INFO - =====eval res (evaluating the model)=====:
+2022-03-12 18:15:52,277 - INFO - Returns is 0.0
+2022-03-12 18:15:52,277 - INFO - conflict num :43.0
+2022-03-12 18:15:52,277 - INFO - nmac num: 0.0
+2022-03-12 18:15:52,277 - INFO - exit boundary num: 1
+2022-03-12 18:15:52,277 - INFO - success num: 29
+2022-03-12 18:15:52,277 - INFO - eval model, episode 79
+2022-03-12 18:15:53,474 - INFO - =====eval res (evaluating the model)=====:
+2022-03-12 18:15:53,474 - INFO - Returns is 0.0
+2022-03-12 18:15:53,474 - INFO - conflict num :27.0
+2022-03-12 18:15:53,474 - INFO - nmac num: 0.0
+2022-03-12 18:15:53,474 - INFO - exit boundary num: 0
+2022-03-12 18:15:53,474 - INFO - success num: 30
+2022-03-12 18:15:53,474 - INFO - eval model, episode 80
+2022-03-12 18:15:54,548 - INFO - =====eval res (evaluating the model)=====:
+2022-03-12 18:15:54,548 - INFO - Returns is 0.0
+2022-03-12 18:15:54,548 - INFO - conflict num :13.0
+2022-03-12 18:15:54,548 - INFO - nmac num: 0.0
+2022-03-12 18:15:54,548 - INFO - exit boundary num: 0
+2022-03-12 18:15:54,548 - INFO - success num: 30
+2022-03-12 18:15:54,548 - INFO - eval model, episode 81
+2022-03-12 18:15:55,713 - INFO - =====eval res (evaluating the model)=====:
+2022-03-12 18:15:55,713 - INFO - Returns is 0.0
+2022-03-12 18:15:55,713 - INFO - conflict num :28.0
+2022-03-12 18:15:55,714 - INFO - nmac num: 0.0
+2022-03-12 18:15:55,714 - INFO - exit boundary num: 0
+2022-03-12 18:15:55,714 - INFO - success num: 30
+2022-03-12 18:15:55,714 - INFO - eval model, episode 82
+2022-03-12 18:15:57,063 - INFO - =====eval res (evaluating the model)=====:
+2022-03-12 18:15:57,063 - INFO - Returns is 0.0
+2022-03-12 18:15:57,063 - INFO - conflict num :40.0
+2022-03-12 18:15:57,063 - INFO - nmac num: 0.0
+2022-03-12 18:15:57,063 - INFO - exit boundary num: 1
+2022-03-12 18:15:57,063 - INFO - success num: 29
+2022-03-12 18:15:57,063 - INFO - eval model, episode 83
+2022-03-12 18:15:58,248 - INFO - =====eval res (evaluating the model)=====:
+2022-03-12 18:15:58,248 - INFO - Returns is 0.0
+2022-03-12 18:15:58,248 - INFO - conflict num :16.0
+2022-03-12 18:15:58,248 - INFO - nmac num: 0.0
+2022-03-12 18:15:58,248 - INFO - exit boundary num: 1
+2022-03-12 18:15:58,248 - INFO - success num: 29
+2022-03-12 18:15:58,248 - INFO - eval model, episode 84
+2022-03-12 18:15:59,266 - INFO - =====eval res (evaluating the model)=====:
+2022-03-12 18:15:59,266 - INFO - Returns is 0.0
+2022-03-12 18:15:59,266 - INFO - conflict num :33.0
+2022-03-12 18:15:59,266 - INFO - nmac num: 1.0
+2022-03-12 18:15:59,266 - INFO - exit boundary num: 0
+2022-03-12 18:15:59,266 - INFO - success num: 30
+2022-03-12 18:15:59,266 - INFO - eval model, episode 85
+2022-03-12 18:16:00,242 - INFO - =====eval res (evaluating the model)=====:
+2022-03-12 18:16:00,242 - INFO - Returns is 0.0
+2022-03-12 18:16:00,242 - INFO - conflict num :16.0
+2022-03-12 18:16:00,242 - INFO - nmac num: 0.0
+2022-03-12 18:16:00,243 - INFO - exit boundary num: 0
+2022-03-12 18:16:00,243 - INFO - success num: 30
+2022-03-12 18:16:00,243 - INFO - eval model, episode 86
+2022-03-12 18:16:01,277 - INFO - =====eval res (evaluating the model)=====:
+2022-03-12 18:16:01,277 - INFO - Returns is 0.0
+2022-03-12 18:16:01,277 - INFO - conflict num :7.0
+2022-03-12 18:16:01,277 - INFO - nmac num: 0.0
+2022-03-12 18:16:01,277 - INFO - exit boundary num: 0
+2022-03-12 18:16:01,277 - INFO - success num: 30
+2022-03-12 18:16:01,277 - INFO - eval model, episode 87
+2022-03-12 18:16:02,316 - INFO - =====eval res (evaluating the model)=====:
+2022-03-12 18:16:02,316 - INFO - Returns is 0.0
+2022-03-12 18:16:02,317 - INFO - conflict num :14.0
+2022-03-12 18:16:02,317 - INFO - nmac num: 0.0
+2022-03-12 18:16:02,317 - INFO - exit boundary num: 0
+2022-03-12 18:16:02,317 - INFO - success num: 30
+2022-03-12 18:16:02,317 - INFO - eval model, episode 88
+2022-03-12 18:16:03,439 - INFO - =====eval res (evaluating the model)=====:
+2022-03-12 18:16:03,439 - INFO - Returns is 0.0
+2022-03-12 18:16:03,439 - INFO - conflict num :21.0
+2022-03-12 18:16:03,439 - INFO - nmac num: 0.0
+2022-03-12 18:16:03,439 - INFO - exit boundary num: 0
+2022-03-12 18:16:03,439 - INFO - success num: 30
+2022-03-12 18:16:03,439 - INFO - eval model, episode 89
+2022-03-12 18:16:04,462 - INFO - =====eval res (evaluating the model)=====:
+2022-03-12 18:16:04,462 - INFO - Returns is 0.0
+2022-03-12 18:16:04,462 - INFO - conflict num :15.0
+2022-03-12 18:16:04,462 - INFO - nmac num: 0.0
+2022-03-12 18:16:04,462 - INFO - exit boundary num: 0
+2022-03-12 18:16:04,462 - INFO - success num: 30
+2022-03-12 18:16:04,462 - INFO - eval model, episode 90
+2022-03-12 18:16:05,539 - INFO - =====eval res (evaluating the model)=====:
+2022-03-12 18:16:05,539 - INFO - Returns is 0.0
+2022-03-12 18:16:05,539 - INFO - conflict num :15.0
+2022-03-12 18:16:05,539 - INFO - nmac num: 0.0
+2022-03-12 18:16:05,539 - INFO - exit boundary num: 0
+2022-03-12 18:16:05,539 - INFO - success num: 30
+2022-03-12 18:16:05,540 - INFO - eval model, episode 91
+2022-03-12 18:16:06,709 - INFO - =====eval res (evaluating the model)=====:
+2022-03-12 18:16:06,709 - INFO - Returns is 0.0
+2022-03-12 18:16:06,709 - INFO - conflict num :30.0
+2022-03-12 18:16:06,709 - INFO - nmac num: 0.0
+2022-03-12 18:16:06,709 - INFO - exit boundary num: 0
+2022-03-12 18:16:06,709 - INFO - success num: 30
+2022-03-12 18:16:06,709 - INFO - eval model, episode 92
+2022-03-12 18:16:07,933 - INFO - =====eval res (evaluating the model)=====:
+2022-03-12 18:16:07,933 - INFO - Returns is 0.0
+2022-03-12 18:16:07,933 - INFO - conflict num :14.0
+2022-03-12 18:16:07,933 - INFO - nmac num: 0.0
+2022-03-12 18:16:07,933 - INFO - exit boundary num: 1
+2022-03-12 18:16:07,933 - INFO - success num: 29
+2022-03-12 18:16:07,933 - INFO - eval model, episode 93
+2022-03-12 18:16:09,035 - INFO - =====eval res (evaluating the model)=====:
+2022-03-12 18:16:09,035 - INFO - Returns is 0.0
+2022-03-12 18:16:09,035 - INFO - conflict num :9.0
+2022-03-12 18:16:09,035 - INFO - nmac num: 0.0
+2022-03-12 18:16:09,035 - INFO - exit boundary num: 0
+2022-03-12 18:16:09,035 - INFO - success num: 30
+2022-03-12 18:16:09,035 - INFO - eval model, episode 94
+2022-03-12 18:16:10,263 - INFO - =====eval res (evaluating the model)=====:
+2022-03-12 18:16:10,263 - INFO - Returns is 0.0
+2022-03-12 18:16:10,263 - INFO - conflict num :9.0
+2022-03-12 18:16:10,263 - INFO - nmac num: 0.0
+2022-03-12 18:16:10,263 - INFO - exit boundary num: 0
+2022-03-12 18:16:10,263 - INFO - success num: 30
+2022-03-12 18:16:10,263 - INFO - eval model, episode 95
+2022-03-12 18:16:11,502 - INFO - =====eval res (evaluating the model)=====:
+2022-03-12 18:16:11,502 - INFO - Returns is 0.0
+2022-03-12 18:16:11,502 - INFO - conflict num :14.0
+2022-03-12 18:16:11,502 - INFO - nmac num: 0.0
+2022-03-12 18:16:11,502 - INFO - exit boundary num: 0
+2022-03-12 18:16:11,502 - INFO - success num: 30
+2022-03-12 18:16:11,502 - INFO - eval model, episode 96
+2022-03-12 18:16:12,653 - INFO - =====eval res (evaluating the model)=====:
+2022-03-12 18:16:12,653 - INFO - Returns is 0.0
+2022-03-12 18:16:12,653 - INFO - conflict num :29.0
+2022-03-12 18:16:12,653 - INFO - nmac num: 0.0
+2022-03-12 18:16:12,653 - INFO - exit boundary num: 0
+2022-03-12 18:16:12,653 - INFO - success num: 30
+2022-03-12 18:16:12,653 - INFO - eval model, episode 97
+2022-03-12 18:16:13,743 - INFO - =====eval res (evaluating the model)=====:
+2022-03-12 18:16:13,743 - INFO - Returns is 0.0
+2022-03-12 18:16:13,743 - INFO - conflict num :15.0
+2022-03-12 18:16:13,743 - INFO - nmac num: 0.0
+2022-03-12 18:16:13,743 - INFO - exit boundary num: 0
+2022-03-12 18:16:13,743 - INFO - success num: 30
+2022-03-12 18:16:13,743 - INFO - eval model, episode 98
+2022-03-12 18:16:14,859 - INFO - =====eval res (evaluating the model)=====:
+2022-03-12 18:16:14,859 - INFO - Returns is 0.0
+2022-03-12 18:16:14,859 - INFO - conflict num :12.0
+2022-03-12 18:16:14,859 - INFO - nmac num: 0.0
+2022-03-12 18:16:14,859 - INFO - exit boundary num: 0
+2022-03-12 18:16:14,859 - INFO - success num: 30
+2022-03-12 18:16:14,859 - INFO - eval model, episode 99
+2022-03-12 18:16:15,793 - INFO - =====eval res (evaluating the model)=====:
+2022-03-12 18:16:15,793 - INFO - Returns is 0.0
+2022-03-12 18:16:15,793 - INFO - conflict num :6.0
+2022-03-12 18:16:15,793 - INFO - nmac num: 0.0
+2022-03-12 18:16:15,793 - INFO - exit boundary num: 0
+2022-03-12 18:16:15,793 - INFO - success num: 30
+2022-03-12 18:16:16,010 - INFO - 有效轮数：99
+2022-03-12 18:16:16,010 - INFO - 平均冲突数：19.737373737373737
+2022-03-12 18:16:16,010 - INFO - 平均NMAC数: 0.010101010101010102
+2022-03-12 18:16:16,010 - INFO - 平均成功率：0.994
+2022-03-12 18:16:16,010 - INFO - 平均出界率：0.005333333333333333
+2022-03-12 18:16:16,010 - INFO - 0冲突占比: 0.0
+2022-03-12 18:16:16,010 - INFO - 平均偏差率：0.020753844619646106

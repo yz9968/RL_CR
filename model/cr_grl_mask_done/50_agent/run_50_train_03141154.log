@@ -1,0 +1,3 @@
+2022-03-14 11:54:09,251 - INFO - Using device: cuda
+2022-03-14 11:54:12,193 - INFO - successfully load model: /50_graph_rl_weight.pth
+2022-03-14 11:54:12,301 - INFO - current episode 0
